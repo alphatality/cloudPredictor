@@ -23,7 +23,7 @@ Instead of reacting to incidents as they occur, the system predicts them **in ad
 ├── predictor.py # Feature extraction, model training, evaluation
 └── utils.py # Model serialization utilities
 
-## 🧠 Modeling Choices
+## Modeling Choices
 
 ### 1. Feature Extraction vs. Raw Sequences
 
@@ -60,7 +60,7 @@ Two models are implemented:
 
 **Why Random Forest**
 - Easy rules
-- low quatity of data
+- low quantity of data
 
 ---
 
